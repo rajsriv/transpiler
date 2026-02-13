@@ -38,7 +38,7 @@ const Docs = () => {
                 </div>
             </div>
             <footer className="footer">
-                <p>Built with ❤️ for learning compiler design • Ported to React & Vite</p>
+                <p>Compiler design concepts</p>
             </footer>
         </div>
     );
