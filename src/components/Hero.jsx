@@ -18,9 +18,9 @@ const Hero = () => {
             </div>
 
             <div className="social-links">
-                <a href="https://github.com" className="social-link" target="_blank" rel="noopener noreferrer">GH</a>
-                <a href="https://twitter.com" className="social-link" target="_blank" rel="noopener noreferrer">TW</a>
-                <a href="https://linkedin.com" className="social-link" target="_blank" rel="noopener noreferrer">LI</a>
+                <a href="https://github.com/rajsriv" className="social-link" target="_blank" rel="noopener noreferrer">GH</a>
+                <a href="https://t.me/RajCodeDump" className="social-link" target="_blank" rel="noopener noreferrer">TG</a>
+                <a href="https://www.linkedin.com/in/raj-sriv2005/" className="social-link" target="_blank" rel="noopener noreferrer">LI</a>
             </div>
         </section>
     );
